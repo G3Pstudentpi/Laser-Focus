@@ -14,3 +14,9 @@ YHDE, last actions:
 17:25:31 Reloading scene res://main.tscn
 
 Godot, last errors and warnings:
+19:47:43 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
+19:47:43 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
+19:48:17 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
+19:48:17 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
+20:01:05 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
+20:01:05 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
