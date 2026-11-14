@@ -1,10 +1,17 @@
 [gd_scene format=3 uid="uid://blatgsfeijmpl"]
 
+[ext_resource type="Script" uid="uid://cm67gdi2x1ebc" path="res://main.gd" id="1_h2yge"]
+[ext_resource type="Script" uid="uid://d0aslg63kkuse" path="res://player_1.gd" id="2_1bvp3"]
+[ext_resource type="Texture2D" uid="uid://clgdy46jfabt3" path="res://images.jpg" id="3_lquwl"]
+
 [node name="Node2D" type="Node2D" unique_id=1645786107]
+script = ExtResource("1_h2yge")
 metadata/_yhde_id = "d9c6b03f-512b-5218-8d26-09ecf6cc780a"
 
 [node name="Player 1" type="CharacterBody2D" parent="." unique_id=1615454185]
+script = ExtResource("2_1bvp3")
 metadata/_yhde_id = "4903aa31-100f-50b2-b48a-23cf122db4b7"
 
 [node name="Sprite2D" type="Sprite2D" parent="Player 1" unique_id=1184981332]
+texture = ExtResource("3_lquwl")
 metadata/_yhde_id = "f99ea9bd-0684-58b5-b28b-632302cc9ed4"

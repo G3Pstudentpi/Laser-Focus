@@ -1,2 +1,4 @@
 res://addons/yhde/ui/smooth.gd
 res://main.tscn
+res://main.gd
+res://player_1.gd

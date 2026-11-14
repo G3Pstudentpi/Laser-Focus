@@ -1,0 +1,1 @@
+{"path":"res://main.gd","rev":9,"text":"extends Node2D\n\n\n# Called when the node enters the scene tree for the first time.\nfunc _ready() -> void:\n\tpass # Replace with function body.\n\n\n# Called every frame. 'delta' is the elapsed time since the previous frame.\nfunc _process(delta: float) -> void:\n\tpass\n"}
