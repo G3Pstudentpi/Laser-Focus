@@ -12,6 +12,8 @@ YHDE, last actions:
 17:12:02 Reloading script res://main.gd
 17:25:31 Writing res://main.tscn (#21 from Madelief Kuppens)
 17:25:31 Reloading scene res://main.tscn
+20:31:45 Writing res://images.jpg.import (#52 from PSRT749)
+20:31:45 Importing 1 files: res://images.jpg
 
 Godot, last errors and warnings:
 19:47:43 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)

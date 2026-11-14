@@ -11,7 +11,6 @@ config_version=5
 [application]
 
 config/name="Laser Focus"
-run/main_scene="uid://blatgsfeijmpl"
 config/features=PackedStringArray("4.7")
 
 [editor_plugins]

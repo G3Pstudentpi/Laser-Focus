@@ -1,7 +1,10 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1794632399
-images.jpg::CompressedTexture2D::5557531495442627286::1794632399::1794632400::1::::<><><>0<>0<>faf52ab32fc07a68503ef54cac46ad11<>res://.godot/imported/images.jpg-828aec76970545e387c8e5ec74aa0b53.ctex::
-README.md::TextFile::-1::1794628837::0::1::::<><><>0<>0<><>::
+::res://::1794648620
+images.jpg::CompressedTexture2D::5557531495442627286::1794632399::1794648705::1::::<><><>0<>0<>faf52ab32fc07a68503ef54cac46ad11<>res://.godot/imported/images.jpg-828aec76970545e387c8e5ec74aa0b53.ctex::
+README.md::TextFile::-1::1794636721::0::1::::<><><>0<>0<><>::
+main.tscn::PackedScene::3159663254674574657::1794648620::0::1::::<><><>0<>0<><>::uid://cm67gdi2x1ebc::::res://main.gd<>uid://d0aslg63kkuse::::res://player_1.gd<>uid://clgdy46jfabt3::::res://images.jpg
+main.gd::GDScript::5681057031137404500::1794648557::0::1::::<>Node2D<><>0<>0<><>::
+player_1.gd::GDScript::8915096055947872744::1794648620::0::1::::<>CharacterBody2D<><>0<>0<><>::
 ::res://addons/::1794627704
 ::res://addons/yhde/::1794627935
 icon.svg::CompressedTexture2D::5074113466641884639::1794627704::1794627935::1::::<><><>0<>0<>27399af21353ea6a77ae73d423b58c9c<>res://.godot/imported/icon.svg-a678f963abcb0d0bb9f39240b695057f.ctex::
@@ -13,7 +16,7 @@ plugin.gd::GDScript::2926422734596520814::1794627704::0::1::::<>EditorPlugin<><>
 THIRD_PARTY_NOTICES.txt::TextFile::-1::1794627704::0::1::::<><><>0<>0<><>::
 yhde.gdextension::GDExtension::5244988565967483768::1794627704::0::1::::<><><>0<>0<><>::
 ::res://addons/yhde/bin/::1794627933
-::res://addons/yhde/ui/::1794627934
+::res://addons/yhde/ui/::1794632629
 account.gd::GDScript::382382629659992164::1794627704::0::1::::<>Node<><>0<>1<><>::
 avatar.gd::GDScript::7974890903557847483::1794627704::0::1::::<>Control<><>0<>1<><>::
 chat_panel.gd::GDScript::1768663692746750834::1794627704::0::1::::<>VBoxContainer<><>0<>1<><>::
@@ -28,7 +31,7 @@ invite_dialog.gd::GDScript::9157840884503540644::1794627705::0::1::::<>AcceptDia
 mark_layer.gd::GDScript::7921595818867574387::1794627705::0::1::::<>Control<><>0<>1<><>::
 overlays.gd::GDScript::5387574084196532610::1794627705::0::1::::<>RefCounted<><>0<>1<><>::
 presence_marks.gd::GDScript::6889830271524605414::1794627705::0::1::::<>RefCounted<><>0<>1<><>::
-smooth.gd::GDScript::1365625553390651915::1794627705::0::1::::<>RefCounted<><>0<>1<><>::
+smooth.gd::GDScript::1365625553390651915::1794632629::0::1::::<>RefCounted<><>0<>1<><>::
 social.gd::GDScript::7832555595580233980::1794627705::0::1::::<>RefCounted<><>0<>1<><>::
 style.gd::GDScript::5146591039324141843::1794627705::0::1::::<>RefCounted<><>0<>1<><>::
 sync_notices.gd::GDScript::6972358862937114128::1794627705::0::1::::<>VBoxContainer<><>0<>1<><>::

@@ -22,5 +22,8 @@ metadata/_yhde_id = "6f100a1c-9b8c-4ef3-bcb9-3cb608551cad"
 [node name="Sprite2D" type="Sprite2D" parent="pew pew laser gun" unique_id=890758250]
 metadata/_yhde_id = "7ed28483-5fb5-4a92-a09d-408e0b89ff33"
 
-[node name="laser" type="CharacterBody2D" parent="pew pew laser gun" unique_id=478409050]
-metadata/_yhde_id = "f8902d5e-5176-4e1e-842d-455fb9f33be6"
+[node name="laser" type="CharacterBody2D" parent="." unique_id=737088017]
+metadata/_yhde_id = "8cac3f40-004d-445a-b644-d36993551acd"
+
+[node name="Sprite2D" type="Sprite2D" parent="laser" unique_id=1067737136]
+metadata/_yhde_id = "61dbedba-3503-4bbb-8830-b01571669bf3"
