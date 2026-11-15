@@ -1,80 +1,43 @@
 YHDE, last actions:
-14:45:34 Editor started
-17:12:00 Writing res://player_1.gd (#22 from Madelief Kuppens)
-17:12:00 Reloading script res://player_1.gd
-17:12:00 Writing res://main.gd (#23 from Madelief Kuppens)
-17:12:00 Reloading script res://main.gd
-17:12:01 Writing res://README.md (#25 from Madelief Kuppens)
-17:12:01 Writing res://.gitattributes (#27 from Madelief Kuppens)
-17:12:01 Writing res://player_1.gd.uid (#26 from Madelief Kuppens)
-17:12:02 Reloading script res://player_1.gd
-17:12:02 Writing res://main.gd.uid (#24 from Madelief Kuppens)
-17:12:02 Reloading script res://main.gd
-17:25:31 Writing res://main.tscn (#21 from Madelief Kuppens)
-17:25:31 Reloading scene res://main.tscn
-20:31:45 Writing res://images.jpg.import (#52 from PSRT749)
-20:31:45 Importing 1 files: res://images.jpg
-20:36:31 Writing res://images.jpg.import (#58 from PSRT749)
-20:36:31 Importing 1 files: res://images.jpg
-20:49:57 Writing res://player_1.gd (#61 from PSRT749)
-20:49:57 Reloading script res://player_1.gd
-20:59:28 Writing res://main.tscn (#60 from PSRT749)
-20:59:28 Reloading scene res://main.tscn
-22:00:57 Writing res://IMG-20261114-WA0035.jpg.import (#84 from PSRT749)
-22:00:57 Writing res://IMG-20261114-WA0035.jpg (#85 from PSRT749)
-22:00:57 Importing 1 files: res://IMG-20261114-WA0035.jpg
-22:18:15 Writing res://Untitled design (1).png.import (#92 from PSRT749)
-22:18:15 Writing res://Untitled design (1).png (#93 from PSRT749)
-22:18:15 Importing 1 files: res://Untitled design (1).png
-22:18:22 Deleting res://IMG-20261114-WA0035.jpg (#94 from PSRT749)
-22:24:50 Writing res://IMG-20261114-WA0035.jpg (#106 from PSRT749)
-22:24:53 Importing 1 files: res://IMG-20261114-WA0035.jpg
-10:12:50 Deleting res://IMG-20261114-WA0035.jpg (#113 from PSRT749)
-10:43:57 Deleting res://images.jpg (#124 from PSRT749)
-10:44:02 Deleting res://player_1.gd (#125 from PSRT749)
-10:44:04 Writing res://player_1.gd (#126 from PSRT749)
-10:44:04 Reloading script res://player_1.gd
-10:44:08 Deleting res://Untitled design (1).png (#127 from PSRT749)
-10:46:14 Writing res://main.gd.uid (#128 from PSRT749)
-10:46:14 Reloading script res://main.gd
-10:46:17 Deleting res://main.tscn (#129 from PSRT749)
-10:49:08 Deleting res://main.gd (#131 from PSRT749)
-10:49:15 Deleting res://player_1.gd (#132 from PSRT749)
-10:50:01 Deleting res://README.md (#135 from PSRT749)
-10:50:06 Writing res://main.tscn (#136 from PSRT749)
-10:50:06 Reloading scene res://main.tscn
-11:27:33 Writing res://working 9.png.import (#230 from PSRT749)
-11:27:33 Importing 1 files: res://working 9.png
-11:29:38 Writing res://working 9.png - 2026-11-15T002831.436026Z.import (#234 from Madelief Kuppens)
+12:56:05 Editor started
+12:56:10 Writing res://working 11.png.import (#598 from PSRT749)
+12:56:10 Importing 1 files: res://working 11.png
+12:56:10 Writing res://official working.png.import (#599 from Madelief Kuppens)
+12:56:10 Importing 1 files: res://official working.png
+12:56:11 Writing res://working 2.png.import (#600 from Madelief Kuppens)
+12:56:11 Importing 1 files: res://working 2.png
+12:56:11 Writing res://working 3.png.import (#601 from Madelief Kuppens)
+12:56:11 Importing 1 files: res://working 3.png
+12:56:12 Writing res://working 4.png.import (#602 from Madelief Kuppens)
+12:56:12 Importing 1 files: res://working 4.png
+12:56:12 Writing res://working 5.png.import (#603 from Madelief Kuppens)
+12:56:12 Importing 1 files: res://working 5.png
+12:56:13 Writing res://working 7.png.import (#604 from Madelief Kuppens)
+12:56:13 Importing 1 files: res://working 7.png
+12:56:37 Writing res://working 4.png.import (#616 from PSRT749)
+12:56:37 Importing 1 files: res://working 4.png
+12:57:46 Writing res://working 4.png.import (#648 from Madelief Kuppens)
+12:57:46 Importing 1 files: res://working 4.png
+12:58:38 Writing res://working 5.png.import (#669 from Madelief Kuppens)
+12:58:38 Importing 1 files: res://working 5.png
+12:58:38 Importing 1 files: res://working 5.png
+12:58:39 Writing res://working 2.png.import (#674 from Madelief Kuppens)
+12:58:39 Importing 1 files: res://working 2.png
+12:58:39 Writing res://working 4.png.import (#681 from Madelief Kuppens)
+12:58:39 Importing 1 files: res://working 4.png
+12:58:39 Writing res://working 6.png.import (#682 from Madelief Kuppens)
+12:58:39 Importing 1 files: res://working 6.png
+12:58:41 Writing res://working 9.png.import (#687 from Madelief Kuppens)
+12:58:41 Importing 1 files: res://working 9.png
+12:58:42 Writing res://working 3.png.import (#688 from Madelief Kuppens)
+12:58:42 Importing 1 files: res://working 3.png
+12:59:09 Writing res://working 2.png.import (#695 from Madelief Kuppens)
+12:59:09 Importing 1 files: res://working 2.png
+12:59:09 Writing res://working 3.png.import (#696 from Madelief Kuppens)
+12:59:09 Importing 1 files: res://working 3.png
+12:59:10 Writing res://working 4.png.import (#697 from Madelief Kuppens)
+12:59:10 Importing 1 files: res://working 4.png
 
 Godot, last errors and warnings:
-19:47:43 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
-19:47:43 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
-19:48:17 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
-19:48:17 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
-20:01:05 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
-20:01:05 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
-22:00:57 ERROR: Unable to open file: res://.godot/imported/IMG-20261114-WA0035.jpg-2ede4caed98ce97b93f3c8bf1507358a.ctex. (scene/resources/compressed_texture.cpp:45)
-22:00:57 ERROR: Failed loading resource: res://.godot/imported/IMG-20261114-WA0035.jpg-2ede4caed98ce97b93f3c8bf1507358a.ctex. (core/io/resource_loader.cpp:317)
-22:00:57 ERROR: Failed loading resource: res://IMG-20261114-WA0035.jpg. (core/io/resource_loader.cpp:317)
-22:18:15 ERROR: Unable to open file: res://.godot/imported/Untitled design (1).png-0c1b3f12f61d06303cb51e092da74908.ctex. (scene/resources/compressed_texture.cpp:45)
-22:18:15 ERROR: Failed loading resource: res://.godot/imported/Untitled design (1).png-0c1b3f12f61d06303cb51e092da74908.ctex. (core/io/resource_loader.cpp:317)
-22:18:15 ERROR: Failed loading resource: res://Untitled design (1).png. (core/io/resource_loader.cpp:317)
-22:24:50 WARNING: YHDE: Sprite2D.texture: Missing resource res://IMG-20261114-WA0035.jpg (core/variant/variant_utility.cpp:1033)
-22:24:50 WARNING: YHDE: IMG-20261114-WA0035.jpg.import could not be written here: it is not on this computer. Nothing was changed for your team, and YHDE keeps trying. (core/variant/variant_utility.cpp:1033)
-22:24:53 ERROR: Unable to open file: res://.godot/imported/IMG-20261114-WA0035.jpg-2ede4caed98ce97b93f3c8bf1507358a.ctex. (scene/resources/compressed_texture.cpp:45)
-22:24:53 ERROR: Failed loading resource: res://.godot/imported/IMG-20261114-WA0035.jpg-2ede4caed98ce97b93f3c8bf1507358a.ctex. (core/io/resource_loader.cpp:317)
-22:24:53 ERROR: Failed loading resource: res://IMG-20261114-WA0035.jpg. (core/io/resource_loader.cpp:317)
-10:44:02 ERROR: Attempt to open script 'res://player_1.gd' resulted in error 'File not found'. (modules/gdscript/gdscript.cpp:1139)
-10:44:02 ERROR: Failed to load script "res://player_1.gd" with error "File not found". (modules/gdscript/gdscript_resource_format.cpp:46)
-10:46:17 ERROR: Unrecognized UID: "uid://blatgsfeijmpl". (core/io/resource_uid.cpp:214)
-10:49:08 ERROR: Attempt to open script 'res://main.gd' resulted in error 'File not found'. (modules/gdscript/gdscript.cpp:1139)
-10:49:08 ERROR: Failed to load script "res://main.gd" with error "File not found". (modules/gdscript/gdscript_resource_format.cpp:46)
-10:49:15 ERROR: Attempt to open script 'res://player_1.gd' resulted in error 'File not found'. (modules/gdscript/gdscript.cpp:1139)
-10:49:15 ERROR: Failed to load script "res://player_1.gd" with error "File not found". (modules/gdscript/gdscript_resource_format.cpp:46)
-11:20:13 WARNING: YHDE: 43 files disappeared from your project at once. Nothing was deleted for your team yet: open the YHDE panel to restore them or delete them for everyone. (core/variant/variant_utility.cpp:1033)
-11:27:10 WARNING: YHDE: working 9.png could not be written here: it is not on this computer. Nothing was changed for your team, and YHDE keeps trying. (core/variant/variant_utility.cpp:1033)
-11:27:11 WARNING: YHDE: working 9.png.import could not be written here: it is not on this computer. Nothing was changed for your team, and YHDE keeps trying. (core/variant/variant_utility.cpp:1033)
-11:27:33 ERROR: Unable to open file: res://.godot/imported/working 9.png-f29fc5ea177665fc57272cabcd653034.ctex. (scene/resources/compressed_texture.cpp:45)
-11:27:33 ERROR: Failed loading resource: res://.godot/imported/working 9.png-f29fc5ea177665fc57272cabcd653034.ctex. (core/io/resource_loader.cpp:317)
-11:27:33 ERROR: Failed loading resource: res://working 9.png. (core/io/resource_loader.cpp:317)
+12:58:38 ERROR: Attempted to call reimport_files() recursively, this is not allowed. (editor/file_system/editor_file_system.cpp:3259)
+13:00:30 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 714) (core/variant/variant_utility.cpp:1033)
