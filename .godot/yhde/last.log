@@ -37,7 +37,31 @@ YHDE, last actions:
 12:59:09 Importing 1 files: res://working 3.png
 12:59:10 Writing res://working 4.png.import (#697 from Madelief Kuppens)
 12:59:10 Importing 1 files: res://working 4.png
+13:14:06 Writing res://sprite_2d.gd.uid (#803 from PSRT749)
+13:14:06 Writing res://sprite_2d.gd (#804 from PSRT749)
+13:14:06 Reloading script res://sprite_2d.gd
 
 Godot, last errors and warnings:
 12:58:38 ERROR: Attempted to call reimport_files() recursively, this is not allowed. (editor/file_system/editor_file_system.cpp:3259)
 13:00:30 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 714) (core/variant/variant_utility.cpp:1033)
+13:12:16 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 784) (core/variant/variant_utility.cpp:1033)
+13:12:17 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 785) (core/variant/variant_utility.cpp:1033)
+13:12:21 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 786) (core/variant/variant_utility.cpp:1033)
+13:12:21 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 787) (core/variant/variant_utility.cpp:1033)
+13:12:43 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 788) (core/variant/variant_utility.cpp:1033)
+13:12:43 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 789) (core/variant/variant_utility.cpp:1033)
+13:12:43 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 790) (core/variant/variant_utility.cpp:1033)
+13:12:44 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 791) (core/variant/variant_utility.cpp:1033)
+13:12:44 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 792) (core/variant/variant_utility.cpp:1033)
+13:12:45 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 793) (core/variant/variant_utility.cpp:1033)
+13:12:48 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 794) (core/variant/variant_utility.cpp:1033)
+13:12:53 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 795) (core/variant/variant_utility.cpp:1033)
+13:12:56 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 796) (core/variant/variant_utility.cpp:1033)
+13:12:58 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 797) (core/variant/variant_utility.cpp:1033)
+13:12:58 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 798) (core/variant/variant_utility.cpp:1033)
+13:12:58 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 799) (core/variant/variant_utility.cpp:1033)
+13:13:00 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 800) (core/variant/variant_utility.cpp:1033)
+13:13:00 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 801) (core/variant/variant_utility.cpp:1033)
+13:23:01 WARNING: YHDE: a logged edit of res://player_1.gd does not fit the local text (rev 562, edit 806) (core/variant/variant_utility.cpp:1033)
+13:28:02 ERROR: ConfigFile parse error at res://.godot/yhde/incoming/6a3d2fb6d41ad628f5ed20a6ef8dfafa2228c19becb50087e308ef090a7a699b:38: Expected value, got ''=''. (core/io/config_file.cpp:293)
+13:28:27 ERROR: ConfigFile parse error at res://.godot/yhde/incoming/6a3d2fb6d41ad628f5ed20a6ef8dfafa2228c19becb50087e308ef090a7a699b:38: Expected value, got ''=''. (core/io/config_file.cpp:293)
