@@ -14,6 +14,38 @@ YHDE, last actions:
 17:25:31 Reloading scene res://main.tscn
 20:31:45 Writing res://images.jpg.import (#52 from PSRT749)
 20:31:45 Importing 1 files: res://images.jpg
+20:36:31 Writing res://images.jpg.import (#58 from PSRT749)
+20:36:31 Importing 1 files: res://images.jpg
+20:49:57 Writing res://player_1.gd (#61 from PSRT749)
+20:49:57 Reloading script res://player_1.gd
+20:59:28 Writing res://main.tscn (#60 from PSRT749)
+20:59:28 Reloading scene res://main.tscn
+22:00:57 Writing res://IMG-20261114-WA0035.jpg.import (#84 from PSRT749)
+22:00:57 Writing res://IMG-20261114-WA0035.jpg (#85 from PSRT749)
+22:00:57 Importing 1 files: res://IMG-20261114-WA0035.jpg
+22:18:15 Writing res://Untitled design (1).png.import (#92 from PSRT749)
+22:18:15 Writing res://Untitled design (1).png (#93 from PSRT749)
+22:18:15 Importing 1 files: res://Untitled design (1).png
+22:18:22 Deleting res://IMG-20261114-WA0035.jpg (#94 from PSRT749)
+22:24:50 Writing res://IMG-20261114-WA0035.jpg (#106 from PSRT749)
+22:24:53 Importing 1 files: res://IMG-20261114-WA0035.jpg
+10:12:50 Deleting res://IMG-20261114-WA0035.jpg (#113 from PSRT749)
+10:43:57 Deleting res://images.jpg (#124 from PSRT749)
+10:44:02 Deleting res://player_1.gd (#125 from PSRT749)
+10:44:04 Writing res://player_1.gd (#126 from PSRT749)
+10:44:04 Reloading script res://player_1.gd
+10:44:08 Deleting res://Untitled design (1).png (#127 from PSRT749)
+10:46:14 Writing res://main.gd.uid (#128 from PSRT749)
+10:46:14 Reloading script res://main.gd
+10:46:17 Deleting res://main.tscn (#129 from PSRT749)
+10:49:08 Deleting res://main.gd (#131 from PSRT749)
+10:49:15 Deleting res://player_1.gd (#132 from PSRT749)
+10:50:01 Deleting res://README.md (#135 from PSRT749)
+10:50:06 Writing res://main.tscn (#136 from PSRT749)
+10:50:06 Reloading scene res://main.tscn
+11:27:33 Writing res://working 9.png.import (#230 from PSRT749)
+11:27:33 Importing 1 files: res://working 9.png
+11:29:38 Writing res://working 9.png - 2026-11-15T002831.436026Z.import (#234 from Madelief Kuppens)
 
 Godot, last errors and warnings:
 19:47:43 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
@@ -22,3 +54,27 @@ Godot, last errors and warnings:
 19:48:17 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
 20:01:05 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
 20:01:05 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
+22:00:57 ERROR: Unable to open file: res://.godot/imported/IMG-20261114-WA0035.jpg-2ede4caed98ce97b93f3c8bf1507358a.ctex. (scene/resources/compressed_texture.cpp:45)
+22:00:57 ERROR: Failed loading resource: res://.godot/imported/IMG-20261114-WA0035.jpg-2ede4caed98ce97b93f3c8bf1507358a.ctex. (core/io/resource_loader.cpp:317)
+22:00:57 ERROR: Failed loading resource: res://IMG-20261114-WA0035.jpg. (core/io/resource_loader.cpp:317)
+22:18:15 ERROR: Unable to open file: res://.godot/imported/Untitled design (1).png-0c1b3f12f61d06303cb51e092da74908.ctex. (scene/resources/compressed_texture.cpp:45)
+22:18:15 ERROR: Failed loading resource: res://.godot/imported/Untitled design (1).png-0c1b3f12f61d06303cb51e092da74908.ctex. (core/io/resource_loader.cpp:317)
+22:18:15 ERROR: Failed loading resource: res://Untitled design (1).png. (core/io/resource_loader.cpp:317)
+22:24:50 WARNING: YHDE: Sprite2D.texture: Missing resource res://IMG-20261114-WA0035.jpg (core/variant/variant_utility.cpp:1033)
+22:24:50 WARNING: YHDE: IMG-20261114-WA0035.jpg.import could not be written here: it is not on this computer. Nothing was changed for your team, and YHDE keeps trying. (core/variant/variant_utility.cpp:1033)
+22:24:53 ERROR: Unable to open file: res://.godot/imported/IMG-20261114-WA0035.jpg-2ede4caed98ce97b93f3c8bf1507358a.ctex. (scene/resources/compressed_texture.cpp:45)
+22:24:53 ERROR: Failed loading resource: res://.godot/imported/IMG-20261114-WA0035.jpg-2ede4caed98ce97b93f3c8bf1507358a.ctex. (core/io/resource_loader.cpp:317)
+22:24:53 ERROR: Failed loading resource: res://IMG-20261114-WA0035.jpg. (core/io/resource_loader.cpp:317)
+10:44:02 ERROR: Attempt to open script 'res://player_1.gd' resulted in error 'File not found'. (modules/gdscript/gdscript.cpp:1139)
+10:44:02 ERROR: Failed to load script "res://player_1.gd" with error "File not found". (modules/gdscript/gdscript_resource_format.cpp:46)
+10:46:17 ERROR: Unrecognized UID: "uid://blatgsfeijmpl". (core/io/resource_uid.cpp:214)
+10:49:08 ERROR: Attempt to open script 'res://main.gd' resulted in error 'File not found'. (modules/gdscript/gdscript.cpp:1139)
+10:49:08 ERROR: Failed to load script "res://main.gd" with error "File not found". (modules/gdscript/gdscript_resource_format.cpp:46)
+10:49:15 ERROR: Attempt to open script 'res://player_1.gd' resulted in error 'File not found'. (modules/gdscript/gdscript.cpp:1139)
+10:49:15 ERROR: Failed to load script "res://player_1.gd" with error "File not found". (modules/gdscript/gdscript_resource_format.cpp:46)
+11:20:13 WARNING: YHDE: 43 files disappeared from your project at once. Nothing was deleted for your team yet: open the YHDE panel to restore them or delete them for everyone. (core/variant/variant_utility.cpp:1033)
+11:27:10 WARNING: YHDE: working 9.png could not be written here: it is not on this computer. Nothing was changed for your team, and YHDE keeps trying. (core/variant/variant_utility.cpp:1033)
+11:27:11 WARNING: YHDE: working 9.png.import could not be written here: it is not on this computer. Nothing was changed for your team, and YHDE keeps trying. (core/variant/variant_utility.cpp:1033)
+11:27:33 ERROR: Unable to open file: res://.godot/imported/working 9.png-f29fc5ea177665fc57272cabcd653034.ctex. (scene/resources/compressed_texture.cpp:45)
+11:27:33 ERROR: Failed loading resource: res://.godot/imported/working 9.png-f29fc5ea177665fc57272cabcd653034.ctex. (core/io/resource_loader.cpp:317)
+11:27:33 ERROR: Failed loading resource: res://working 9.png. (core/io/resource_loader.cpp:317)
