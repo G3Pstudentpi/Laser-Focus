@@ -1,4 +1,6 @@
 Sprite2D
+Node2D
 CharacterBody2D
-CheckBox
 Node
+SubViewport
+CheckBox

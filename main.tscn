@@ -1,29 +1,4 @@
 [gd_scene format=3 uid="uid://blatgsfeijmpl"]
 
-[ext_resource type="Script" uid="uid://cm67gdi2x1ebc" path="res://main.gd" id="1_h2yge"]
-[ext_resource type="Script" uid="uid://d0aslg63kkuse" path="res://player_1.gd" id="2_1bvp3"]
-[ext_resource type="Texture2D" uid="uid://clgdy46jfabt3" path="res://images.jpg" id="3_lquwl"]
-
-[node name="Node2D" type="Node2D" unique_id=1645786107]
-script = ExtResource("1_h2yge")
+[node name="Level 1" type="Node2D" unique_id=789609519]
 metadata/_yhde_id = "d9c6b03f-512b-5218-8d26-09ecf6cc780a"
-
-[node name="Player 1" type="CharacterBody2D" parent="." unique_id=1615454185]
-script = ExtResource("2_1bvp3")
-metadata/_yhde_id = "4903aa31-100f-50b2-b48a-23cf122db4b7"
-
-[node name="Sprite2D" type="Sprite2D" parent="Player 1" unique_id=1184981332]
-texture = ExtResource("3_lquwl")
-metadata/_yhde_id = "f99ea9bd-0684-58b5-b28b-632302cc9ed4"
-
-[node name="pew pew laser gun" type="CharacterBody2D" parent="." unique_id=1443097084]
-metadata/_yhde_id = "6f100a1c-9b8c-4ef3-bcb9-3cb608551cad"
-
-[node name="Sprite2D" type="Sprite2D" parent="pew pew laser gun" unique_id=890758250]
-metadata/_yhde_id = "7ed28483-5fb5-4a92-a09d-408e0b89ff33"
-
-[node name="laser" type="CharacterBody2D" parent="." unique_id=737088017]
-metadata/_yhde_id = "8cac3f40-004d-445a-b644-d36993551acd"
-
-[node name="Sprite2D" type="Sprite2D" parent="laser" unique_id=1067737136]
-metadata/_yhde_id = "61dbedba-3503-4bbb-8830-b01571669bf3"

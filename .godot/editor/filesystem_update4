@@ -1,6 +1,5 @@
-res://addons/yhde/ui/smooth.gd
-res://main.tscn
+res://images.jpg
 res://main.gd
 res://player_1.gd
-res://README.md
-res://images.jpg
+res://main.tscn
+res://addons/yhde/ui/smooth.gd

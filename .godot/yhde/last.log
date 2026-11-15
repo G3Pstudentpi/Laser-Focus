@@ -1,24 +1,132 @@
 YHDE, last actions:
-14:45:34 Editor started
-17:12:00 Writing res://player_1.gd (#22 from Madelief Kuppens)
-17:12:00 Reloading script res://player_1.gd
-17:12:00 Writing res://main.gd (#23 from Madelief Kuppens)
-17:12:00 Reloading script res://main.gd
-17:12:01 Writing res://README.md (#25 from Madelief Kuppens)
-17:12:01 Writing res://.gitattributes (#27 from Madelief Kuppens)
-17:12:01 Writing res://player_1.gd.uid (#26 from Madelief Kuppens)
-17:12:02 Reloading script res://player_1.gd
-17:12:02 Writing res://main.gd.uid (#24 from Madelief Kuppens)
-17:12:02 Reloading script res://main.gd
-17:25:31 Writing res://main.tscn (#21 from Madelief Kuppens)
-17:25:31 Reloading scene res://main.tscn
-20:31:45 Writing res://images.jpg.import (#52 from PSRT749)
-20:31:45 Importing 1 files: res://images.jpg
+20:49:52 Editor started
+20:49:55 Writing res://images.jpg.import (#59 from Someone)
+20:49:55 Importing 1 files: res://images.jpg
+20:49:55 Importing 1 files: res://images.jpg
+10:44:06 Reloading script res://player_1.gd
+11:12:44 Writing res://pew pew.png.import (#144 from Student Pi)
+11:12:44 Writing res://pew pew.png (#145 from Student Pi)
+11:12:44 Importing 1 files: res://pew pew.png
+11:12:44 Writing res://working 17.png.import (#146 from Student Pi)
+11:12:44 Writing res://working 17.png (#147 from Student Pi)
+11:12:44 Importing 1 files: res://working 17.png
+11:12:47 Writing res://haven mascot.png.import (#142 from Student Pi)
+11:12:47 Writing res://haven mascot.png (#143 from Student Pi)
+11:12:47 Importing 1 files: res://haven mascot.png
+11:13:04 Writing res://working 16.png.import (#148 from Student Pi)
+11:13:04 Writing res://working 16.png (#149 from Student Pi)
+11:13:04 Importing 1 files: res://working 16.png
+11:13:06 Writing res://working 15.png.import (#150 from Student Pi)
+11:13:06 Writing res://working 15.png (#151 from Student Pi)
+11:13:06 Importing 1 files: res://working 15.png
+11:13:08 Writing res://working 14.png.import (#152 from Student Pi)
+11:13:08 Writing res://working 14.png (#153 from Student Pi)
+11:13:08 Importing 1 files: res://working 14.png
+11:13:11 Writing res://working 13.png.import (#154 from Student Pi)
+11:13:11 Writing res://working 13.png (#155 from Student Pi)
+11:13:11 Importing 1 files: res://working 13.png
+11:13:13 Writing res://working 12.png.import (#156 from Student Pi)
+11:13:13 Writing res://working 12.png (#157 from Student Pi)
+11:13:13 Importing 1 files: res://working 12.png
+11:13:14 Writing res://working 11.png.import (#158 from Student Pi)
+11:13:14 Writing res://working 11.png (#159 from Student Pi)
+11:13:14 Importing 1 files: res://working 11.png
+11:13:16 Writing res://working 10.png.import (#160 from Student Pi)
+11:13:16 Writing res://working 10.png (#161 from Student Pi)
+11:13:16 Importing 1 files: res://working 10.png
+11:13:18 Writing res://working 9.png.import (#162 from Student Pi)
+11:13:18 Writing res://working 9.png (#163 from Student Pi)
+11:13:18 Importing 1 files: res://working 9.png
+11:13:19 Writing res://working 8.png.import (#164 from Student Pi)
+11:13:19 Writing res://working 8.png (#165 from Student Pi)
+11:13:19 Importing 1 files: res://working 8.png
+11:13:21 Writing res://working 7.png.import (#166 from Student Pi)
+11:13:21 Writing res://working 7.png (#167 from Student Pi)
+11:13:21 Importing 1 files: res://working 7.png
+11:13:22 Writing res://working 6.png.import (#168 from Student Pi)
+11:13:22 Writing res://working 6.png (#169 from Student Pi)
+11:13:22 Importing 1 files: res://working 6.png
+11:13:24 Writing res://working 5.png.import (#170 from Student Pi)
+11:13:24 Writing res://working 5.png (#171 from Student Pi)
+11:13:24 Importing 1 files: res://working 5.png
+11:13:32 Writing res://addons/Laser Focus.zip (#172 from Student Pi)
+11:13:33 Writing res://addons/working 4.png.import (#173 from Student Pi)
+11:13:33 Writing res://addons/working 4.png (#174 from Student Pi)
+11:13:33 Importing 1 files: res://addons/working 4.png
+11:13:34 Writing res://addons/whoops.png.import (#175 from Student Pi)
+11:13:34 Writing res://addons/whoops.png (#176 from Student Pi)
+11:13:34 Importing 1 files: res://addons/whoops.png
+11:13:34 Writing res://working 2.png.import (#177 from Student Pi)
+11:13:34 Writing res://working 2.png (#178 from Student Pi)
+11:13:34 Importing 1 files: res://working 2.png
+11:13:36 Writing res://official working.png.import (#180 from Student Pi)
+11:13:36 Writing res://official working.png (#181 from Student Pi)
+11:13:36 Importing 1 files: res://official working.png
+11:13:37 Writing res://working 3.png.import (#179 from Student Pi)
+11:13:37 Writing res://working 3.png (#182 from Student Pi)
+11:13:37 Importing 1 files: res://working 3.png
+11:13:52 Writing res://working 4.png.import (#183 from Student Pi)
+11:13:52 Writing res://working 4.png (#184 from Student Pi)
+11:13:52 Importing 1 files: res://working 4.png
 
 Godot, last errors and warnings:
-19:47:43 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
-19:47:43 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
-19:48:17 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
-19:48:17 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
-20:01:05 ERROR: WASAPI: GetBufferSize error (drivers/wasapi/audio_driver_wasapi.cpp:778)
-20:01:05 WARNING: WASAPI: Current output_device invalidated, closing output_device (drivers/wasapi/audio_driver_wasapi.cpp:849)
+11:12:44 ERROR: Failed loading resource: res://.godot/imported/working 17.png-f1712f354f6ed71feb61cd0cc67cfda7.ctex. (core/io/resource_loader.cpp:317)
+11:12:44 ERROR: Failed loading resource: res://working 17.png. (core/io/resource_loader.cpp:317)
+11:12:47 ERROR: Unable to open file: res://.godot/imported/haven mascot.png-39a45b956e3788ad8154b1b4b52c5db9.ctex. (scene/resources/compressed_texture.cpp:45)
+11:12:47 ERROR: Failed loading resource: res://.godot/imported/haven mascot.png-39a45b956e3788ad8154b1b4b52c5db9.ctex. (core/io/resource_loader.cpp:317)
+11:12:47 ERROR: Failed loading resource: res://haven mascot.png. (core/io/resource_loader.cpp:317)
+11:12:54 WARNING: YHDE: Skipped a text edit of README.md (file not here) (core/variant/variant_utility.cpp:1033)
+11:13:04 ERROR: Unable to open file: res://.godot/imported/working 16.png-1c55ec02e3987e8b73d3cbc5ea79ab31.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:04 ERROR: Failed loading resource: res://.godot/imported/working 16.png-1c55ec02e3987e8b73d3cbc5ea79ab31.ctex. (core/io/resource_loader.cpp:317)
+11:13:04 ERROR: Failed loading resource: res://working 16.png. (core/io/resource_loader.cpp:317)
+11:13:06 ERROR: Unable to open file: res://.godot/imported/working 15.png-e2f7db9fe2f0db556d0218c924adde9f.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:06 ERROR: Failed loading resource: res://.godot/imported/working 15.png-e2f7db9fe2f0db556d0218c924adde9f.ctex. (core/io/resource_loader.cpp:317)
+11:13:06 ERROR: Failed loading resource: res://working 15.png. (core/io/resource_loader.cpp:317)
+11:13:08 ERROR: Unable to open file: res://.godot/imported/working 14.png-f2799cbad8d581fe13014013f6877c9e.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:08 ERROR: Failed loading resource: res://.godot/imported/working 14.png-f2799cbad8d581fe13014013f6877c9e.ctex. (core/io/resource_loader.cpp:317)
+11:13:08 ERROR: Failed loading resource: res://working 14.png. (core/io/resource_loader.cpp:317)
+11:13:11 ERROR: Unable to open file: res://.godot/imported/working 13.png-3a2b04ba10810bd0ae23692c12ae9a6e.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:11 ERROR: Failed loading resource: res://.godot/imported/working 13.png-3a2b04ba10810bd0ae23692c12ae9a6e.ctex. (core/io/resource_loader.cpp:317)
+11:13:11 ERROR: Failed loading resource: res://working 13.png. (core/io/resource_loader.cpp:317)
+11:13:13 ERROR: Unable to open file: res://.godot/imported/working 12.png-67890c8916b1367b4f1634f6a1c3fd15.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:13 ERROR: Failed loading resource: res://.godot/imported/working 12.png-67890c8916b1367b4f1634f6a1c3fd15.ctex. (core/io/resource_loader.cpp:317)
+11:13:13 ERROR: Failed loading resource: res://working 12.png. (core/io/resource_loader.cpp:317)
+11:13:14 ERROR: Unable to open file: res://.godot/imported/working 11.png-709c3c619834149eb116acc9368cfd49.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:14 ERROR: Failed loading resource: res://.godot/imported/working 11.png-709c3c619834149eb116acc9368cfd49.ctex. (core/io/resource_loader.cpp:317)
+11:13:14 ERROR: Failed loading resource: res://working 11.png. (core/io/resource_loader.cpp:317)
+11:13:16 ERROR: Unable to open file: res://.godot/imported/working 10.png-629a66f5ae0cf124257ff7cf79929009.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:16 ERROR: Failed loading resource: res://.godot/imported/working 10.png-629a66f5ae0cf124257ff7cf79929009.ctex. (core/io/resource_loader.cpp:317)
+11:13:16 ERROR: Failed loading resource: res://working 10.png. (core/io/resource_loader.cpp:317)
+11:13:18 ERROR: Unable to open file: res://.godot/imported/working 9.png-f29fc5ea177665fc57272cabcd653034.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:18 ERROR: Failed loading resource: res://.godot/imported/working 9.png-f29fc5ea177665fc57272cabcd653034.ctex. (core/io/resource_loader.cpp:317)
+11:13:18 ERROR: Failed loading resource: res://working 9.png. (core/io/resource_loader.cpp:317)
+11:13:19 ERROR: Unable to open file: res://.godot/imported/working 8.png-1ed5af543252c04520dd01b958f58488.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:19 ERROR: Failed loading resource: res://.godot/imported/working 8.png-1ed5af543252c04520dd01b958f58488.ctex. (core/io/resource_loader.cpp:317)
+11:13:19 ERROR: Failed loading resource: res://working 8.png. (core/io/resource_loader.cpp:317)
+11:13:21 ERROR: Unable to open file: res://.godot/imported/working 7.png-08f7d38c0aae92314236b266a09e2385.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:21 ERROR: Failed loading resource: res://.godot/imported/working 7.png-08f7d38c0aae92314236b266a09e2385.ctex. (core/io/resource_loader.cpp:317)
+11:13:21 ERROR: Failed loading resource: res://working 7.png. (core/io/resource_loader.cpp:317)
+11:13:22 ERROR: Unable to open file: res://.godot/imported/working 6.png-bb8c5021937725bf8ef281942452e8c3.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:22 ERROR: Failed loading resource: res://.godot/imported/working 6.png-bb8c5021937725bf8ef281942452e8c3.ctex. (core/io/resource_loader.cpp:317)
+11:13:22 ERROR: Failed loading resource: res://working 6.png. (core/io/resource_loader.cpp:317)
+11:13:24 ERROR: Unable to open file: res://.godot/imported/working 5.png-0ea8935f6e4b19571139543ce721a6be.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:24 ERROR: Failed loading resource: res://.godot/imported/working 5.png-0ea8935f6e4b19571139543ce721a6be.ctex. (core/io/resource_loader.cpp:317)
+11:13:24 ERROR: Failed loading resource: res://working 5.png. (core/io/resource_loader.cpp:317)
+11:13:33 ERROR: Unable to open file: res://.godot/imported/working 4.png-b9b79da390103818220d677b905f8cc6.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:33 ERROR: Failed loading resource: res://.godot/imported/working 4.png-b9b79da390103818220d677b905f8cc6.ctex. (core/io/resource_loader.cpp:317)
+11:13:33 ERROR: Failed loading resource: res://addons/working 4.png. (core/io/resource_loader.cpp:317)
+11:13:34 ERROR: Unable to open file: res://.godot/imported/whoops.png-ecd6e626878742569b4362178f39a9e9.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:34 ERROR: Failed loading resource: res://.godot/imported/whoops.png-ecd6e626878742569b4362178f39a9e9.ctex. (core/io/resource_loader.cpp:317)
+11:13:34 ERROR: Failed loading resource: res://addons/whoops.png. (core/io/resource_loader.cpp:317)
+11:13:34 ERROR: Unable to open file: res://.godot/imported/working 2.png-13b57f6eccbab3affc242934fba59138.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:34 ERROR: Failed loading resource: res://.godot/imported/working 2.png-13b57f6eccbab3affc242934fba59138.ctex. (core/io/resource_loader.cpp:317)
+11:13:34 ERROR: Failed loading resource: res://working 2.png. (core/io/resource_loader.cpp:317)
+11:13:36 ERROR: Unable to open file: res://.godot/imported/official working.png-8f8f0908277052cb8188e773461f26ce.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:36 ERROR: Failed loading resource: res://.godot/imported/official working.png-8f8f0908277052cb8188e773461f26ce.ctex. (core/io/resource_loader.cpp:317)
+11:13:36 ERROR: Failed loading resource: res://official working.png. (core/io/resource_loader.cpp:317)
+11:13:37 ERROR: Unable to open file: res://.godot/imported/working 3.png-b39ea0d4640fd6697398794bffcc051e.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:37 ERROR: Failed loading resource: res://.godot/imported/working 3.png-b39ea0d4640fd6697398794bffcc051e.ctex. (core/io/resource_loader.cpp:317)
+11:13:37 ERROR: Failed loading resource: res://working 3.png. (core/io/resource_loader.cpp:317)
+11:13:52 ERROR: Unable to open file: res://.godot/imported/working 4.png-0e3cc357648b0082e7460cdc7d95a312.ctex. (scene/resources/compressed_texture.cpp:45)
+11:13:52 ERROR: Failed loading resource: res://.godot/imported/working 4.png-0e3cc357648b0082e7460cdc7d95a312.ctex. (core/io/resource_loader.cpp:317)
+11:13:52 ERROR: Failed loading resource: res://working 4.png. (core/io/resource_loader.cpp:317)
