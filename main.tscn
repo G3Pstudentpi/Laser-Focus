@@ -1,4 +1,19 @@
 [gd_scene format=3 uid="uid://blatgsfeijmpl"]
 
+[ext_resource type="Texture2D" uid="uid://v5p1gfxaei66" path="res://pew pew.png" id="1_ig7tw"]
+
 [node name="Level 1" type="Node2D" unique_id=789609519]
+position = Vector2(-1, 0)
 metadata/_yhde_id = "d9c6b03f-512b-5218-8d26-09ecf6cc780a"
+
+[node name="Laser Player" type="Node2D" parent="." unique_id=36399930]
+metadata/_yhde_id = "e498641d-c715-46ec-a855-e6e26d2147ff"
+
+[node name="Sprite2D" type="Sprite2D" parent="Laser Player" unique_id=1954621806]
+position = Vector2(691, 553)
+scale = Vector2(5.139135, 5.139135)
+texture = ExtResource("1_ig7tw")
+metadata/_yhde_id = "75c65c5f-28fd-429c-b68b-8a91ffefecf4"
+
+[node name="Sprite2D2" type="Sprite2D" parent="Laser Player" unique_id=1574640210]
+metadata/_yhde_id = "9f6ca19f-5acf-42de-95af-f11482ed6e12"
